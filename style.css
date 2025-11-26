@@ -66,6 +66,14 @@ h2 {
     margin-bottom: 20px;
 }
 
+h3 {
+    color: #e8e8e8;
+    font-size: 1.2em;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-decoration: underline;
+}
+
 /* Paragraphs */
 p {
     margin-bottom: 20px;
